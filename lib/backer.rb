@@ -15,5 +15,4 @@ class Backer
     Project.
   end
 
-Stay.new(property, self, length)
 end
