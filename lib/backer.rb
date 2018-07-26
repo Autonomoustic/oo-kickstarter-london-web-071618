@@ -12,6 +12,8 @@ class Backer
   def back_project(project)
     project.backers = self
     @backed_projects << project
+    Project.
   end
 
+Stay.new(property, self, length)
 end
